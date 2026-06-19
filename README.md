@@ -34,18 +34,14 @@ It analyzes World Bank datasets to explore global development indicators using P
 
 ## 📈 Key Visualizations
 
-### 📊 Region-wise Country Distribution
-![Region-wise Country Distribution](images/Region-wise Country Distribution.png)
+### Income Group Distribution
+![Income Group](images/income_group.png)
 
----
+### Region Distribution
+![Region](images/region_distribution.png)
 
-### 📊 Income Group Distribution
-![Income Group Distribution](images/Income Group Distribution.png)
-
----
-
-### 📊 Distribution of Indicator Values (2019)
-![Indicator Distribution](images/Distribution of Indicator Values (2019).png)
+### Indicator Distribution (2019)
+![Indicator](images/indicator_2019.png)
 
 ---
 
